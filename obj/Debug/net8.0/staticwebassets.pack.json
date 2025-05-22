@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HighchartsApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HighchartsApp.f2o5e28hck.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\Jamnica.csv",
+      "PackagePath": "staticwebassets\\Data\\Jamnica.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\Jogurt.csv",
+      "PackagePath": "staticwebassets\\Data\\Jogurt.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\banana.csv",
+      "PackagePath": "staticwebassets\\Data\\banana.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\bomboni.csv",
+      "PackagePath": "staticwebassets\\Data\\bomboni.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\caj.csv",
+      "PackagePath": "staticwebassets\\Data\\caj.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\coca_cola.csv",
+      "PackagePath": "staticwebassets\\Data\\coca_cola.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\cokolada.csv",
+      "PackagePath": "staticwebassets\\Data\\cokolada.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\cokolino.csv",
+      "PackagePath": "staticwebassets\\Data\\cokolino.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\conrflakes.csv",
+      "PackagePath": "staticwebassets\\Data\\conrflakes.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\deterdzent.csv",
+      "PackagePath": "staticwebassets\\Data\\deterdzent.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\flips.csv",
+      "PackagePath": "staticwebassets\\Data\\flips.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\jaja.csv",
+      "PackagePath": "staticwebassets\\Data\\jaja.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\kava.csv",
+      "PackagePath": "staticwebassets\\Data\\kava.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\kikiriki.csv",
+      "PackagePath": "staticwebassets\\Data\\kikiriki.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\mlijeko.csv",
+      "PackagePath": "staticwebassets\\Data\\mlijeko.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\mrkva.csv",
+      "PackagePath": "staticwebassets\\Data\\mrkva.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\orah.csv",
+      "PackagePath": "staticwebassets\\Data\\orah.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\oslic.csv",
+      "PackagePath": "staticwebassets\\Data\\oslic.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\pileci_file.csv",
+      "PackagePath": "staticwebassets\\Data\\pileci_file.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\pivo.csv",
+      "PackagePath": "staticwebassets\\Data\\pivo.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\riža.csv",
+      "PackagePath": "staticwebassets\\Data\\riža.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\salama.csv",
+      "PackagePath": "staticwebassets\\Data\\salama.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\salata.csv",
+      "PackagePath": "staticwebassets\\Data\\salata.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\sampon.csv",
+      "PackagePath": "staticwebassets\\Data\\sampon.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\sapun.csv",
+      "PackagePath": "staticwebassets\\Data\\sapun.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\sir.csv",
+      "PackagePath": "staticwebassets\\Data\\sir.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\sol.csv",
+      "PackagePath": "staticwebassets\\Data\\sol.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\tjestenina.csv",
+      "PackagePath": "staticwebassets\\Data\\tjestenina.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\tost.csv",
+      "PackagePath": "staticwebassets\\Data\\tost.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\ulosci.csv",
+      "PackagePath": "staticwebassets\\Data\\ulosci.csv"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HighchartsApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HighchartsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HighchartsApp.props",
+      "PackagePath": "build\\HighchartsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HighchartsApp.props",
+      "PackagePath": "buildMultiTargeting\\HighchartsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HighchartsApp.props",
+      "PackagePath": "buildTransitive\\HighchartsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

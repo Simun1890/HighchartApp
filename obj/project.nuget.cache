@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGOnunhziwE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\HighchartsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,82 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background: linear-gradient(135deg, #f3f4f6, #e2e8f0);
+    min-height: 100vh;
+}
+body {
+    background-color: #f8f9fa;
+}
+
+.chart-box {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.2rem 0.6rem rgba(0,0,0,0.1);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Red za selectove (dropdown) */
+.select-row {
+    display: flex;
+    justify-content: left;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+
+    .select-row select {
+        min-width: 180px;
+        max-width: 300px;
+    }
+
+/* Red za gumbe */
+.button-row {
+    display: flex;
+    justify-content: space-between; /* rasporedi gumbove na krajeve i sredinu */
+    align-items: center;
+    margin-bottom: 2rem;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: nowrap;
+    position: relative;
+}
+
+    /* Specifičan stil za srednji gumb da bude centriran */
+    .button-row .btn-center {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /* Svaki gumb fiksne širine */
+    .button-row button {
+        min-width: 110px;
+        flex: 0 0 auto;
+        position: relative;
+    }

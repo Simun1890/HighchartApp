@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\HighchartsApp.exe
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\appsettings.Development.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\appsettings.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\HighchartsApp.dll
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\HighchartsApp.deps.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\HighchartsApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\HighchartsApp.pdb
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\Grpc.Core.dll
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\Grpc.Core.Api.dll
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\publish\runtimes\win-x86\native\grpc_csharp_ext.x86.dll

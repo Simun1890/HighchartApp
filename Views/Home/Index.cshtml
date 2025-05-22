@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Početna";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Dobrodošli!</h1>
+    <p class="lead">Ova aplikacija omogućuje praćenje promjena cijena proizvoda kroz vrijeme.</p>
+</div>
+
+<section class="mt-5">
+    <h2 class="text-center mb-4">Što aplikacija nudi?</h2>
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <img src="https://cdn-icons-png.flaticon.com/512/4205/4205694.png" width="64" class="mb-2" />
+            <h5>Praćenje cijena</h5>
+            <p>Usporedi kako su se cijene mijenjale kroz vrijeme za različite proizvode.</p>
+        </div>
+        <div class="col-md-4 mb-4">
+            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="64" class="mb-2" />
+            <h5>Jednostavno sučelje</h5>
+            <p>Brza navigacija s grafovima i izbornikom za promjenu proizvoda.</p>
+        </div>
+        <div class="col-md-4 mb-4">
+            <img src="https://cdn-icons-png.flaticon.com/512/942/942751.png" width="64" class="mb-2" />
+            <h5>Analiza trenda</h5>
+            <p>Uoči kada su proizvodi poskupjeli ili pojeftinili.</p>
+        </div>
+    </div>
+</section>
+
+<section class="mt-5 text-center">
+    <div class="mt-5">
+        <img src="https://cdn-icons-png.flaticon.com/512/3022/3022256.png" width="120" class="mb-3" />
+        <p class="mb-4">Odaberite karticu <strong>Grafovi</strong> u izborniku za pregled grafova po proizvodima.</p>
+        <a class="btn btn-primary btn-lg" asp-controller="Graph" asp-action="Index">
+            Pogledaj grafove
+        </a>
+    </div>
+</section>
+
+<section class="mt-5">
+    <h2 class="text-center mb-4">O projektu</h2>
+    <p class="text-center px-4">
+        Ova web-aplikacija razvijena je s ciljem pružanja jednostavnog alata za analizu cijena proizvoda
+        u maloprodaji, temeljenih na stvarnim podacima iz internetskih trgovina arhiviranih putem
+        <a href="https://web.archive.org" target="_blank">Web Archive</a>. Idealno za praćenje inflacije, sezonskih sniženja i promjena u maloprodaji.
+    </p>
+</section>
+
+<section class="mt-5 mb-5">
+    <h2 class="text-center mb-4">Korištene tehnologije</h2>
+    <ul class="list-group list-group-flush w-50 mx-auto">
+        <li class="list-group-item">ASP.NET Core MVC</li>
+        <li class="list-group-item">C# i Razor view engine</li>
+        <li class="list-group-item">Highcharts.js za vizualizaciju podataka</li>
+        <li class="list-group-item">Bootstrap 5 za stil i responzivnost</li>
+        <li class="list-group-item">Web Archive za izvor podataka (arhivirani web snapshotovi)</li>
+    </ul>
+</section>
+
+<p class="text-muted text-center mb-5">Trenutno dostupni grafovi za više proizvoda – pristupite im putem izbornika "Grafovi".</p>
