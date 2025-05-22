@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighchartsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497f5b36cd662e44a0498ed15148eaf5ce2cfa46")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighchartsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighchartsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

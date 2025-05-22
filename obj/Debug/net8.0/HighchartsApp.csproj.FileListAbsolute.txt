@@ -40,3 +40,11 @@ C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0
 C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0\HighchartsApp.pdb
 C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0\HighchartsApp.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0\ref\HighchartsApp.dll
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\web.config
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\HighchartsApp.deps.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\HighchartsApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\bin\Debug\net8.0\publish\HighchartsApp.staticwebassets.endpoints.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0\HighchartsApp.sourcelink.json
+C:\Users\Administrator\source\repos\HighchartsApp\HighchartsApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

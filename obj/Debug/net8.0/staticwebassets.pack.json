@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\HighchartsApp.f2o5e28hck.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
       "Id": "C:\\Users\\Administrator\\source\\repos\\HighchartsApp\\HighchartsApp\\wwwroot\\Data\\Jamnica.csv",
       "PackagePath": "staticwebassets\\Data\\Jamnica.csv"
     },
